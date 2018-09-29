@@ -453,22 +453,6 @@ make matcaffe -j16          -------(若需要权限则输入sudo make matcaffe -
 
 等待编译结果，到此matlab安装编译成功!
  
- 
-参考资料：http://blog.csdn.net/qq_29133371/article/details/52048239
-                  
-                  http://blog.csdn.net/jialian_wu/article/details/76507013
-                  
-                  http://blog.csdn.net/samylee/article/details/50922601
-                  
-                  http://blog.csdn.net/xuzhongxiong/article/details/52717285
-                 
-                 http://blog.sina.com.cn/s/blog_9db078090102vdvx.html
-                
-                http://www.cnblogs.com/platero/p/3993877.html
-                
-                http://blog.csdn.net/u012581999/article/details/52433609
-               
-               以及文中添加的相关链接，在此向这些博主、分享者表示诚挚的感谢！
 
 ---------------------
 
